@@ -4,3 +4,7 @@
     - data types
     - declaring multiple variable
     - string and operations on string
+### Math 
+    - max
+    - min
+    - sqrt
