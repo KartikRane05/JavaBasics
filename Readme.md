@@ -8,3 +8,7 @@
     - max
     - min
     - sqrt
+### Array
+    - Array of single data type
+    - Array of mulitiple data type
+    
