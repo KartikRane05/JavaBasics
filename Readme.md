@@ -15,4 +15,8 @@
     - Basic Func
     - func With Para
     - Overload Concept
-    
+### Classes and Object
+class and object =>
+        class => car
+        object => color,weight => things related to car
+        
