@@ -16,9 +16,9 @@
     - func With Para
     - Overload Concept
 ### Classes and Object
-class and object =>
-        class => car
-       object => color,weight => things related to car
+    class and object =>
+    class => car
+    object => color,weight => things related to car
     - Basic of Class and object
     - Defining Class in one file and accessing it in another file
     - static vs public and how to access
