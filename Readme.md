@@ -23,4 +23,6 @@
     - Defining Class in one file and accessing it in another file
     - static vs public and how to access
     - Constructor => for initializing the values
+    - Abstract => creating abstract class and method => use it 
+    
     
