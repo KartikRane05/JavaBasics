@@ -22,3 +22,5 @@ class and object =>
     - Basic of Class and object
     - Defining Class in one file and accessing it in another file
     - static vs public and how to access
+    - Constructor => for initializing the values
+    
