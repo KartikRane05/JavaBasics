@@ -15,7 +15,7 @@
     - Basic Func
     - func With Para
     - Overload Concept
-### Classes and Object
+### Classes and Object (High Concepts)
     class and object =>
     class => car
     object => color,weight => things related to car
@@ -24,5 +24,6 @@
     - static vs public and how to access
     - Constructor => for initializing the values
     - Abstract => creating abstract class and method => use it 
-    
+    - Encapsulation => hides the data 
+
     
