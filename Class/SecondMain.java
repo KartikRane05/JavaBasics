@@ -1,7 +1,8 @@
 package Class;
-public class SecondMain {
-   public static void main(String[] args) {
-    Main myobj1 = new Main();
-    System.out.println(myobj1.Sum(5, 5));
-   }
+public class Secondmain {
+    public static void main(String[] args) {
+        Main myobj = new Main();
+        System.out.println(myobj.a);
+        System.out.println(myobj.Sum(50, 50));
+    }
 }
