@@ -25,5 +25,6 @@
     - Constructor => for initializing the values
     - Abstract => creating abstract class and method => use it 
     - Encapsulation => hides the data (Imp**)
-
+    - ArrayList and operations
+    
     
