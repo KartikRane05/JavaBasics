@@ -14,7 +14,7 @@
 ### Functions
     - Basic Func
     - func With Para
-    - Overload Concept
+    - Overload Concept =>  simple thing two functions can have same name
 ### Classes and Object (High Concepts)
     class and object =>
     class => car
@@ -24,6 +24,6 @@
     - static vs public and how to access
     - Constructor => for initializing the values
     - Abstract => creating abstract class and method => use it 
-    - Encapsulation => hides the data 
+    - Encapsulation => hides the data (Imp**)
 
     
