@@ -40,6 +40,7 @@
     -  Set-HashSet => every item in a set has to be unique
         rest same like arraylist
     - Immutablelist
+    - Concept Of Optional => to handle null pointer error => means when the output is null
     
     
     
