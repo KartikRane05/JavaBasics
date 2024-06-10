@@ -26,5 +26,11 @@
     - Abstract => creating abstract class and method => use it 
     - Encapsulation => hides the data (Imp**)
     - ArrayList and operations
+        Operations :-
+        - add
+        - get
+        - remove
+        - size
+        - sort => Collections.sort(arrayname)
     
     
