@@ -31,6 +31,14 @@
         - get
         - remove
         - size
+        - contains
         - sort => Collections.sort(arrayname)
+    - Hashmap
+        - put
+        - get
+        - loop over hashmap => (Imp**)
+    -  Set-HashSet => every item in a set has to be unique
+        rest same like arraylist
+
     
     
